@@ -1,4 +1,5 @@
-Dzień Dobry 
-przeysłam  rozwiązanie zadania zaliczeniowego 
-Rafał Górski
+### Dzień Dobry 
+### przeysłam  rozwiązanie zadania zaliczeniowego 
+### Z wyrazami szacunku
+### Rafał Górski
 
